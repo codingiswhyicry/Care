@@ -36,4 +36,5 @@ stress management
 
 lifestyle
 	a. do you own pets? 
-	b. do you often keep your 
+	b. do you often keep your room clean? 
+	c. do you get out of the house a lot? 
