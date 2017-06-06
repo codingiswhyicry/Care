@@ -1,0 +1,33 @@
+
+Care++ 
+-app that uses machine learning to gauge your habits 
+-track habits for a week at the beginning, and then once every three months
+	1) measures different areas of health, asks questions and judges priority rating on 1-5 (1 is urgent, 5 is okay)
+		a. medical health
+		b. hygiene 
+		c. exercise
+		d. stress management and sleep
+	2) works with user to find optimal scheduling of tasks for easier adjustment. 
+	3) priority arranged by color 
+	4) users can’t delete tasks 
+		a. can edit the frequency of task (daily, every other day, weekly, bi-weekly, monthly)
+		b. can edit the time user gets alerted
+-check the amount of time between surveys, plan notifications three months in advance
+	1) save frequency and time to NSUserDefaults, which is used when scheduling the notifications
+
+health
+	a. do you take your medication? 
+	b. do you regularly exercise? 
+	c. are you drinking water regularly? 
+	d. when do you have the most energy? 
+
+hygiene 
+	a. how often do you brush your teeth? 
+	b. how often do you shower? 
+	c. 
+
+exercise
+
+stress management 
+
+lifestyle
