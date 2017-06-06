@@ -24,10 +24,14 @@ health
 hygiene 
 	a. how often do you brush your teeth? 
 	b. how often do you shower? 
-	c. 
+	c. do you regularly go to the doctor? 
 
 exercise
+	a. how often do you exercise? 
+	b. do you consume high amounts of caffeine? 
 
 stress management 
+	a. on a scale of one to ten (one being very little and ten being a lot) how often are you stressed?
+	b. do you experience frequent suicidal thoughts? 
 
 lifestyle

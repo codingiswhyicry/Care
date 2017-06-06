@@ -11,7 +11,7 @@
 		9C32D2A11EE62FA5009BDD67 /* priorityTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A01EE62FA5009BDD67 /* priorityTwo.swift */; };
 		9C32D2A31EE62FB6009BDD67 /* priorityThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A21EE62FB6009BDD67 /* priorityThree.swift */; };
 		9C32D2A51EE62FCE009BDD67 /* priorityFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A41EE62FCE009BDD67 /* priorityFour.swift */; };
-		9C32D2A71EE62FED009BDD67 /* prorityFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A61EE62FED009BDD67 /* prorityFive.swift */; };
+		9C32D2A91EE70568009BDD67 /* priorityFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A81EE70568009BDD67 /* priorityFive.swift */; };
 		9C895EFA1E664DD800CE1923 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C895EF91E664DD800CE1923 /* AppDelegate.swift */; };
 		9C895EFC1E664DD800CE1923 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C895EFB1E664DD800CE1923 /* ViewController.swift */; };
 		9C895EFF1E664DD800CE1923 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C895EFD1E664DD800CE1923 /* Main.storyboard */; };
@@ -25,7 +25,7 @@
 		9C32D2A01EE62FA5009BDD67 /* priorityTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = priorityTwo.swift; sourceTree = "<group>"; };
 		9C32D2A21EE62FB6009BDD67 /* priorityThree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = priorityThree.swift; sourceTree = "<group>"; };
 		9C32D2A41EE62FCE009BDD67 /* priorityFour.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = priorityFour.swift; sourceTree = "<group>"; };
-		9C32D2A61EE62FED009BDD67 /* prorityFive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = prorityFive.swift; sourceTree = "<group>"; };
+		9C32D2A81EE70568009BDD67 /* priorityFive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = priorityFive.swift; path = ../priorityFive.swift; sourceTree = "<group>"; };
 		9C895EF61E664DD800CE1923 /* Care++.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Care++.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C895EF91E664DD800CE1923 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9C895EFB1E664DD800CE1923 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,7 +83,7 @@
 				9C32D2A01EE62FA5009BDD67 /* priorityTwo.swift */,
 				9C32D2A21EE62FB6009BDD67 /* priorityThree.swift */,
 				9C32D2A41EE62FCE009BDD67 /* priorityFour.swift */,
-				9C32D2A61EE62FED009BDD67 /* prorityFive.swift */,
+				9C32D2A81EE70568009BDD67 /* priorityFive.swift */,
 			);
 			name = "priority tasks";
 			sourceTree = "<group>";
@@ -189,13 +189,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				9C32D2A51EE62FCE009BDD67 /* priorityFour.swift in Sources */,
+				9C32D2A91EE70568009BDD67 /* priorityFive.swift in Sources */,
 				9C32D29E1EE62F1D009BDD67 /* priorityOne.swift in Sources */,
 				9C895EFC1E664DD800CE1923 /* ViewController.swift in Sources */,
 				9C32D2A31EE62FB6009BDD67 /* priorityThree.swift in Sources */,
 				9C895F021E664DD800CE1923 /* Care__.xcdatamodeld in Sources */,
 				9C32D2A11EE62FA5009BDD67 /* priorityTwo.swift in Sources */,
 				9C895EFA1E664DD800CE1923 /* AppDelegate.swift in Sources */,
-				9C32D2A71EE62FED009BDD67 /* prorityFive.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
