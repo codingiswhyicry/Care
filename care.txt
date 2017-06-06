@@ -35,3 +35,5 @@ stress management
 	b. do you experience frequent suicidal thoughts? 
 
 lifestyle
+	a. do you own pets? 
+	b. do you often keep your 
