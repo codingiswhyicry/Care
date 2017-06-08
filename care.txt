@@ -38,3 +38,6 @@ lifestyle
 	a. do you own pets? 
 	b. do you often keep your room clean? 
 	c. do you get out of the house a lot? 
+
+sentiment analysis tracks if user is having a good day or bad day, and uses NSNotifications to change and track their mood over time
+
