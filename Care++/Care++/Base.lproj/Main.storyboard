@@ -39,10 +39,10 @@
             </objects>
             <point key="canvasLocation" x="136.875" y="-879.92957746478874"/>
         </scene>
-        <!--View Controller-->
+        <!--Task View-->
         <scene sceneID="R5V-da-evA">
             <objects>
-                <viewController id="tS1-N2-UNf" sceneMemberID="viewController">
+                <viewController id="tS1-N2-UNf" customClass="taskView" customModule="Care__" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Ncx-L4-L5U"/>
                         <viewControllerLayoutGuide type="bottom" id="gTx-s8-FS7"/>
@@ -159,10 +159,10 @@
             </objects>
             <point key="canvasLocation" x="817.5" y="-878.87323943661977"/>
         </scene>
-        <!--View Controller-->
+        <!--Hygiene View-->
         <scene sceneID="YD8-Ch-ulC">
             <objects>
-                <viewController id="aWK-Ko-5Ns" sceneMemberID="viewController">
+                <viewController id="aWK-Ko-5Ns" customClass="hygieneView" customModule="Care__" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="cfv-3b-Y1J"/>
                         <viewControllerLayoutGuide type="bottom" id="EkY-zd-UQA"/>
@@ -220,10 +220,10 @@
             </objects>
             <point key="canvasLocation" x="817.5" y="-205.98591549295776"/>
         </scene>
-        <!--View Controller-->
+        <!--Exercise View-->
         <scene sceneID="tzp-IF-B5f">
             <objects>
-                <viewController id="Wly-ya-yVr" sceneMemberID="viewController">
+                <viewController id="Wly-ya-yVr" customClass="exerciseView" customModule="Care__" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="hcQ-8m-B9M"/>
                         <viewControllerLayoutGuide type="bottom" id="gUO-fr-phw"/>
@@ -254,10 +254,10 @@
             </objects>
             <point key="canvasLocation" x="818" y="473"/>
         </scene>
-        <!--View Controller-->
+        <!--Health View-->
         <scene sceneID="0wo-RF-ZaX">
             <objects>
-                <viewController id="RVN-2M-pAP" sceneMemberID="viewController">
+                <viewController id="RVN-2M-pAP" customClass="healthView" customModule="Care__" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="In4-if-bJU"/>
                         <viewControllerLayoutGuide type="bottom" id="ge3-eP-B11"/>
@@ -324,10 +324,10 @@
             </objects>
             <point key="canvasLocation" x="136.875" y="-83.450704225352112"/>
         </scene>
-        <!--View Controller-->
+        <!--Lifestyle View-->
         <scene sceneID="4Rl-hG-10i">
             <objects>
-                <viewController id="Qty-Ij-Kg4" sceneMemberID="viewController">
+                <viewController id="Qty-Ij-Kg4" customClass="lifestyleView" customModule="Care__" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="scs-Ys-lHf"/>
                         <viewControllerLayoutGuide type="bottom" id="gvy-lz-HaS"/>

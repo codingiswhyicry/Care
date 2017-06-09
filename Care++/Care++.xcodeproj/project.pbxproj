@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		9C177A4A1EEAAABB00F84C4C /* medicationScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C177A491EEAAABB00F84C4C /* medicationScheduler.swift */; };
+		9C177A4C1EEB557000F84C4C /* taskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C177A4B1EEB557000F84C4C /* taskView.swift */; };
+		9C177A4E1EEB559400F84C4C /* healthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C177A4D1EEB559400F84C4C /* healthView.swift */; };
+		9C177A501EEB55A000F84C4C /* hygieneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C177A4F1EEB55A000F84C4C /* hygieneView.swift */; };
+		9C177A521EEB55B300F84C4C /* lifestyleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C177A511EEB55B300F84C4C /* lifestyleView.swift */; };
+		9C177A541EEB55C800F84C4C /* exerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C177A531EEB55C800F84C4C /* exerciseView.swift */; };
 		9C32D29E1EE62F1D009BDD67 /* priorityOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D29D1EE62F1D009BDD67 /* priorityOne.swift */; };
 		9C32D2A11EE62FA5009BDD67 /* priorityTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A01EE62FA5009BDD67 /* priorityTwo.swift */; };
 		9C32D2A31EE62FB6009BDD67 /* priorityThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A21EE62FB6009BDD67 /* priorityThree.swift */; };
@@ -24,6 +29,11 @@
 
 /* Begin PBXFileReference section */
 		9C177A491EEAAABB00F84C4C /* medicationScheduler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = medicationScheduler.swift; sourceTree = "<group>"; };
+		9C177A4B1EEB557000F84C4C /* taskView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = taskView.swift; sourceTree = "<group>"; };
+		9C177A4D1EEB559400F84C4C /* healthView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = healthView.swift; sourceTree = "<group>"; };
+		9C177A4F1EEB55A000F84C4C /* hygieneView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = hygieneView.swift; sourceTree = "<group>"; };
+		9C177A511EEB55B300F84C4C /* lifestyleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lifestyleView.swift; sourceTree = "<group>"; };
+		9C177A531EEB55C800F84C4C /* exerciseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = exerciseView.swift; sourceTree = "<group>"; };
 		9C32D29D1EE62F1D009BDD67 /* priorityOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = priorityOne.swift; path = ../priorityOne.swift; sourceTree = "<group>"; };
 		9C32D2A01EE62FA5009BDD67 /* priorityTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = priorityTwo.swift; sourceTree = "<group>"; };
 		9C32D2A21EE62FB6009BDD67 /* priorityThree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = priorityThree.swift; sourceTree = "<group>"; };
@@ -57,6 +67,11 @@
 			isa = PBXGroup;
 			children = (
 				9C895EFB1E664DD800CE1923 /* ViewController.swift */,
+				9C177A4D1EEB559400F84C4C /* healthView.swift */,
+				9C177A4F1EEB55A000F84C4C /* hygieneView.swift */,
+				9C177A511EEB55B300F84C4C /* lifestyleView.swift */,
+				9C177A531EEB55C800F84C4C /* exerciseView.swift */,
+				9C177A4B1EEB557000F84C4C /* taskView.swift */,
 				9C177A491EEAAABB00F84C4C /* medicationScheduler.swift */,
 			);
 			name = "view controllers";
@@ -213,15 +228,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C177A541EEB55C800F84C4C /* exerciseView.swift in Sources */,
+				9C177A501EEB55A000F84C4C /* hygieneView.swift in Sources */,
+				9C177A521EEB55B300F84C4C /* lifestyleView.swift in Sources */,
 				9C32D2A51EE62FCE009BDD67 /* priorityFour.swift in Sources */,
 				9C32D2A91EE70568009BDD67 /* priorityFive.swift in Sources */,
 				9C32D29E1EE62F1D009BDD67 /* priorityOne.swift in Sources */,
+				9C177A4C1EEB557000F84C4C /* taskView.swift in Sources */,
 				9C895EFC1E664DD800CE1923 /* ViewController.swift in Sources */,
 				9C177A4A1EEAAABB00F84C4C /* medicationScheduler.swift in Sources */,
 				9C32D2A31EE62FB6009BDD67 /* priorityThree.swift in Sources */,
 				9C895F021E664DD800CE1923 /* Care__.xcdatamodeld in Sources */,
 				9C32D2A11EE62FA5009BDD67 /* priorityTwo.swift in Sources */,
 				9C895EFA1E664DD800CE1923 /* AppDelegate.swift in Sources */,
+				9C177A4E1EEB559400F84C4C /* healthView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
