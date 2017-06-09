@@ -23,8 +23,7 @@ health
 
 hygiene 
 	a. how often do you brush your teeth? 
-	b. how often do you shower? 
-	c. do you regularly go to the doctor? 
+	b. how often do you shower?
 
 exercise
 	a. how often do you exercise? 
