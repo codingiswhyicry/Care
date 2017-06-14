@@ -39,6 +39,9 @@
 		9C32D2A21EE62FB6009BDD67 /* priorityThree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = priorityThree.swift; sourceTree = "<group>"; };
 		9C32D2A41EE62FCE009BDD67 /* priorityFour.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = priorityFour.swift; sourceTree = "<group>"; };
 		9C32D2A81EE70568009BDD67 /* priorityFive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = priorityFive.swift; path = ../priorityFive.swift; sourceTree = "<group>"; };
+		9C543ACE1EF0EFC100D978C8 /* Comfortaa-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comfortaa-Bold.ttf"; sourceTree = "<group>"; };
+		9C543ACF1EF0EFC100D978C8 /* Comfortaa-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comfortaa-Light.ttf"; sourceTree = "<group>"; };
+		9C543AD01EF0EFC100D978C8 /* Comfortaa-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comfortaa-Regular.ttf"; sourceTree = "<group>"; };
 		9C84A3251EE72CA900A6C555 /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = System/Library/Frameworks/HealthKit.framework; sourceTree = SDKROOT; };
 		9C84A3271EE72CAA00A6C555 /* Care++.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Care++.entitlements"; sourceTree = "<group>"; };
 		9C895EF61E664DD800CE1923 /* Care++.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Care++.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +91,9 @@
 		9C32D29C1EE62ADB009BDD67 /* UI / UX */ = {
 			isa = PBXGroup;
 			children = (
+				9C543ACE1EF0EFC100D978C8 /* Comfortaa-Bold.ttf */,
+				9C543ACF1EF0EFC100D978C8 /* Comfortaa-Light.ttf */,
+				9C543AD01EF0EFC100D978C8 /* Comfortaa-Regular.ttf */,
 				9C32D29F1EE62F2B009BDD67 /* priority tasks */,
 				9C895F031E664DD800CE1923 /* Assets.xcassets */,
 				9C895F051E664DD800CE1923 /* LaunchScreen.storyboard */,
