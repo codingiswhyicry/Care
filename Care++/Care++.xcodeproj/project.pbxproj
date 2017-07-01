@@ -13,11 +13,9 @@
 		9C177A501EEB55A000F84C4C /* hygieneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C177A4F1EEB55A000F84C4C /* hygieneView.swift */; };
 		9C177A521EEB55B300F84C4C /* lifestyleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C177A511EEB55B300F84C4C /* lifestyleView.swift */; };
 		9C177A541EEB55C800F84C4C /* exerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C177A531EEB55C800F84C4C /* exerciseView.swift */; };
-		9C32D29E1EE62F1D009BDD67 /* priorityOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D29D1EE62F1D009BDD67 /* priorityOne.swift */; };
-		9C32D2A11EE62FA5009BDD67 /* priorityTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A01EE62FA5009BDD67 /* priorityTwo.swift */; };
-		9C32D2A31EE62FB6009BDD67 /* priorityThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A21EE62FB6009BDD67 /* priorityThree.swift */; };
-		9C32D2A51EE62FCE009BDD67 /* priorityFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A41EE62FCE009BDD67 /* priorityFour.swift */; };
-		9C32D2A91EE70568009BDD67 /* priorityFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32D2A81EE70568009BDD67 /* priorityFive.swift */; };
+		9C1F84BD1F072963001C5A0C /* Comfortaa-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9C543ACE1EF0EFC100D978C8 /* Comfortaa-Bold.ttf */; };
+		9C1F84BE1F072966001C5A0C /* Comfortaa-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9C543ACF1EF0EFC100D978C8 /* Comfortaa-Light.ttf */; };
+		9C1F84BF1F072969001C5A0C /* Comfortaa-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9C543AD01EF0EFC100D978C8 /* Comfortaa-Regular.ttf */; };
 		9C84A3261EE72CA900A6C555 /* HealthKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C84A3251EE72CA900A6C555 /* HealthKit.framework */; };
 		9C895EFA1E664DD800CE1923 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C895EF91E664DD800CE1923 /* AppDelegate.swift */; };
 		9C895EFC1E664DD800CE1923 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C895EFB1E664DD800CE1923 /* ViewController.swift */; };
@@ -34,11 +32,6 @@
 		9C177A4F1EEB55A000F84C4C /* hygieneView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = hygieneView.swift; sourceTree = "<group>"; };
 		9C177A511EEB55B300F84C4C /* lifestyleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lifestyleView.swift; sourceTree = "<group>"; };
 		9C177A531EEB55C800F84C4C /* exerciseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = exerciseView.swift; sourceTree = "<group>"; };
-		9C32D29D1EE62F1D009BDD67 /* priorityOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = priorityOne.swift; path = ../priorityOne.swift; sourceTree = "<group>"; };
-		9C32D2A01EE62FA5009BDD67 /* priorityTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = priorityTwo.swift; sourceTree = "<group>"; };
-		9C32D2A21EE62FB6009BDD67 /* priorityThree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = priorityThree.swift; sourceTree = "<group>"; };
-		9C32D2A41EE62FCE009BDD67 /* priorityFour.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = priorityFour.swift; sourceTree = "<group>"; };
-		9C32D2A81EE70568009BDD67 /* priorityFive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = priorityFive.swift; path = ../priorityFive.swift; sourceTree = "<group>"; };
 		9C543ACE1EF0EFC100D978C8 /* Comfortaa-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comfortaa-Bold.ttf"; sourceTree = "<group>"; };
 		9C543ACF1EF0EFC100D978C8 /* Comfortaa-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comfortaa-Light.ttf"; sourceTree = "<group>"; };
 		9C543AD01EF0EFC100D978C8 /* Comfortaa-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comfortaa-Regular.ttf"; sourceTree = "<group>"; };
@@ -94,7 +87,6 @@
 				9C543ACE1EF0EFC100D978C8 /* Comfortaa-Bold.ttf */,
 				9C543ACF1EF0EFC100D978C8 /* Comfortaa-Light.ttf */,
 				9C543AD01EF0EFC100D978C8 /* Comfortaa-Regular.ttf */,
-				9C32D29F1EE62F2B009BDD67 /* priority tasks */,
 				9C895F031E664DD800CE1923 /* Assets.xcassets */,
 				9C895F051E664DD800CE1923 /* LaunchScreen.storyboard */,
 				9C895F081E664DD800CE1923 /* Info.plist */,
@@ -102,18 +94,6 @@
 				9C895EF71E664DD800CE1923 /* Products */,
 			);
 			name = "UI / UX";
-			sourceTree = "<group>";
-		};
-		9C32D29F1EE62F2B009BDD67 /* priority tasks */ = {
-			isa = PBXGroup;
-			children = (
-				9C32D29D1EE62F1D009BDD67 /* priorityOne.swift */,
-				9C32D2A01EE62FA5009BDD67 /* priorityTwo.swift */,
-				9C32D2A21EE62FB6009BDD67 /* priorityThree.swift */,
-				9C32D2A41EE62FCE009BDD67 /* priorityFour.swift */,
-				9C32D2A81EE70568009BDD67 /* priorityFive.swift */,
-			);
-			name = "priority tasks";
 			sourceTree = "<group>";
 		};
 		9C84A3241EE72CA900A6C555 /* Frameworks */ = {
@@ -221,9 +201,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C1F84BD1F072963001C5A0C /* Comfortaa-Bold.ttf in Resources */,
 				9C895F071E664DD800CE1923 /* LaunchScreen.storyboard in Resources */,
 				9C895F041E664DD800CE1923 /* Assets.xcassets in Resources */,
 				9C895EFF1E664DD800CE1923 /* Main.storyboard in Resources */,
+				9C1F84BF1F072969001C5A0C /* Comfortaa-Regular.ttf in Resources */,
+				9C1F84BE1F072966001C5A0C /* Comfortaa-Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -237,15 +220,10 @@
 				9C177A541EEB55C800F84C4C /* exerciseView.swift in Sources */,
 				9C177A501EEB55A000F84C4C /* hygieneView.swift in Sources */,
 				9C177A521EEB55B300F84C4C /* lifestyleView.swift in Sources */,
-				9C32D2A51EE62FCE009BDD67 /* priorityFour.swift in Sources */,
-				9C32D2A91EE70568009BDD67 /* priorityFive.swift in Sources */,
-				9C32D29E1EE62F1D009BDD67 /* priorityOne.swift in Sources */,
 				9C177A4C1EEB557000F84C4C /* taskView.swift in Sources */,
 				9C895EFC1E664DD800CE1923 /* ViewController.swift in Sources */,
 				9C177A4A1EEAAABB00F84C4C /* medicationScheduler.swift in Sources */,
-				9C32D2A31EE62FB6009BDD67 /* priorityThree.swift in Sources */,
 				9C895F021E664DD800CE1923 /* Care__.xcdatamodeld in Sources */,
-				9C32D2A11EE62FA5009BDD67 /* priorityTwo.swift in Sources */,
 				9C895EFA1E664DD800CE1923 /* AppDelegate.swift in Sources */,
 				9C177A4E1EEB559400F84C4C /* healthView.swift in Sources */,
 			);
