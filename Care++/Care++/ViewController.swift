@@ -85,7 +85,10 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
         taskTable.delegate = self
         taskTable.dataSource = self
-        taskTable.backgroundColor = UIColor.clear
+        
+        self.taskTable.allowsMultipleSelection = false
+        self.taskTable .separatorColor = UIColor.clear
+        
     }
     
     
